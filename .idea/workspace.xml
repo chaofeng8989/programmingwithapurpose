@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a489b68-b92e-4632-8835-38fd1478fb3a" name="Default Changelist" comment="" />
+    <list default="true" id="1a489b68-b92e-4632-8835-38fd1478fb3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/stdlib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/resource/dd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/resource/fair-coin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/resource/loaded-die.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/src/Checkerboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/src/ShannonEntropy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/src/WorldMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/ActivationFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/AudioCollage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/src/Divisors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/week5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/src/RevesPuzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/src/TrinomialBrute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/src/TrinomialDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/week6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week3/Archive.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week3/Archive.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programmingWithAPurpose.iml" beforeDir="false" afterPath="$PROJECT_DIR$/programmingWithAPurpose.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/week4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/week4.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,37 +34,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week3/src/DiscreteDistribution.java">
+        <entry file="file://$PROJECT_DIR$/week5/src/AudioCollage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="160">
+              <caret line="54" column="58" selection-start-line="54" selection-start-column="58" selection-end-line="54" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week3/src/ThueMorse.java">
+        <entry file="file://$PROJECT_DIR$/week6/src/TrinomialBrute.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week3/src/Birthday.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week3/src/Minesweeper.java">
+        <entry file="file://$PROJECT_DIR$/week6/src/RevesPuzzle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week6/src/TrinomialDP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week5/src/ActivationFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week5/src/Divisors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -56,6 +96,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -68,15 +111,29 @@
         <option value="$PROJECT_DIR$/week3/src/ThueMorse.java" />
         <option value="$PROJECT_DIR$/week3/src/Birthday.java" />
         <option value="$PROJECT_DIR$/week3/src/Minesweeper.java" />
+        <option value="$PROJECT_DIR$/week4/resource/fair-coin.txt" />
+        <option value="$PROJECT_DIR$/week4/resource/loaded-die.txt" />
+        <option value="$PROJECT_DIR$/week4/resource/dd.txt" />
+        <option value="$PROJECT_DIR$/week4/src/WorldMap.java" />
+        <option value="$PROJECT_DIR$/week4/src/Checkerboard.java" />
+        <option value="$PROJECT_DIR$/week4/src/ShannonEntropy.java" />
+        <option value="$PROJECT_DIR$/week5/week5.iml" />
+        <option value="$PROJECT_DIR$/week5/src/Divisors.java" />
+        <option value="$PROJECT_DIR$/week5/src/ActivationFunction.java" />
+        <option value="$PROJECT_DIR$/week5/src/AudioCollage.java" />
+        <option value="$PROJECT_DIR$/week6/src/TrinomialDP.java" />
+        <option value="$PROJECT_DIR$/week6/src/TrinomialBrute.java" />
+        <option value="$PROJECT_DIR$/week6/src/RevesPuzzle.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="3541" />
-    <option name="y" value="352" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="553" />
+    <option name="y" value="108" />
     <option name="width" value="1519" />
     <option name="height" value="953" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -92,12 +149,12 @@
             <path>
               <item name="programmingWithAPurpose" type="b2602c69:ProjectViewProjectNode" />
               <item name="programmingWithAPurpose" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
+              <item name="week6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="programmingWithAPurpose" type="b2602c69:ProjectViewProjectNode" />
               <item name="programmingWithAPurpose" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
+              <item name="week6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -113,10 +170,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587587732915" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587831929443" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -135,61 +192,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Minesweeper">
-    <configuration name="Birthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Birthday" />
-      <module name="week3" />
-      <option name="PROGRAM_PARAMETERS" value="4 4" />
+  <component name="RunManager" selected="Application.RevesPuzzle">
+    <configuration name="ActivationFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ActivationFunction" />
+      <module name="week5" />
+      <option name="PROGRAM_PARAMETERS" value="1.0" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiscreteDistribution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DiscreteDistribution" />
-      <module name="week3" />
-      <option name="PROGRAM_PARAMETERS" value="25 10 10 10 10 10 50" />
+    <configuration name="Divisors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Divisors" />
+      <module name="week5" />
+      <option name="PROGRAM_PARAMETERS" value="987 0" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minesweeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Minesweeper" />
-      <module name="week3" />
-      <option name="PROGRAM_PARAMETERS" value="9 9 10" />
+    <configuration name="RevesPuzzle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RevesPuzzle" />
+      <module name="week6" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomWalkers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RandomWalkers" />
-      <module name="week2" />
-      <option name="PROGRAM_PARAMETERS" value="160 100000" />
+    <configuration name="TrinomialBrute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrinomialBrute" />
+      <module name="week6" />
+      <option name="PROGRAM_PARAMETERS" value="24 12" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThueMorse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThueMorse" />
-      <module name="week3" />
-      <option name="PROGRAM_PARAMETERS" value="12" />
+    <configuration name="TrinomialDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TrinomialDP" />
+      <module name="week6" />
+      <option name="PROGRAM_PARAMETERS" value="40 0" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RandomWalkers" />
-      <item itemvalue="Application.DiscreteDistribution" />
-      <item itemvalue="Application.ThueMorse" />
-      <item itemvalue="Application.Birthday" />
-      <item itemvalue="Application.Minesweeper" />
+      <item itemvalue="Application.ActivationFunction" />
+      <item itemvalue="Application.Divisors" />
+      <item itemvalue="Application.TrinomialBrute" />
+      <item itemvalue="Application.TrinomialDP" />
+      <item itemvalue="Application.RevesPuzzle" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Minesweeper" />
-        <item itemvalue="Application.Birthday" />
-        <item itemvalue="Application.ThueMorse" />
-        <item itemvalue="Application.DiscreteDistribution" />
-        <item itemvalue="Application.RandomWalkers" />
+        <item itemvalue="Application.RevesPuzzle" />
+        <item itemvalue="Application.TrinomialBrute" />
+        <item itemvalue="Application.TrinomialDP" />
+        <item itemvalue="Application.ActivationFunction" />
+        <item itemvalue="Application.Divisors" />
       </list>
     </recent_temporary>
   </component>
@@ -207,9 +264,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3541" y="352" width="1519" height="953" extended-state="0" />
+    <frame x="553" y="108" width="1519" height="953" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25321597" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25321597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -219,7 +277,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329849" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3205575" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39953542" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -228,7 +286,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.329849" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329849" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -354,13 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week3/src/DiscreteDistribution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week3/src/Birthday.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -370,8 +421,119 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week3/src/Minesweeper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
+        <state relative-caret-position="240">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/resource/fair-coin.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/resource/loaded-die.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/src/DiscreteDistribution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/resource/dd.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/stdlib.jar!/StdDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="472" column="19" selection-start-line="472" selection-start-column="19" selection-end-line="472" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/src/Checkerboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/src/ShannonEntropy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/src/WorldMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4/week4.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5/week5.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/week3.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5/src/Divisors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5/src/AudioCollage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="54" column="58" selection-start-line="54" selection-start-column="58" selection-end-line="54" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5/src/ActivationFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week6/src/TrinomialDP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week6/src/TrinomialBrute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week6/src/RevesPuzzle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -428,12 +590,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>week2</last-edited>
+          <last-edited>week6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -453,6 +614,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>stdlib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

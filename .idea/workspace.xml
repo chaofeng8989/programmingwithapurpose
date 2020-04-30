@@ -2,29 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a489b68-b92e-4632-8835-38fd1478fb3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/stdlib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/resource/dd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/resource/fair-coin.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/resource/loaded-die.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/src/Checkerboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/src/ShannonEntropy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/src/WorldMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/src/ActivationFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/src/AudioCollage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/src/Divisors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/week5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/src/RevesPuzzle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/src/TrinomialBrute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/src/TrinomialDP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/week6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/week3/Archive.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week3/Archive.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week6/RevesPuzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week6/RevesPuzzle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week6/TrinomialBrute.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/week6/TrinomialBrute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/programmingWithAPurpose.iml" beforeDir="false" afterPath="$PROJECT_DIR$/programmingWithAPurpose.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/week4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/week4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/src/RevesPuzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/week6/src/RevesPuzzle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/src/TrinomialBrute.java" beforeDir="false" afterPath="$PROJECT_DIR$/week6/src/TrinomialBrute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/src/TrinomialDP.java" beforeDir="false" afterPath="$PROJECT_DIR$/week6/src/TrinomialDP.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week5/src/AudioCollage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
+            <state relative-caret-position="810">
               <caret line="54" column="58" selection-start-line="54" selection-start-column="58" selection-end-line="54" selection-end-column="58" />
             </state>
           </provider>
@@ -46,43 +35,16 @@
         <entry file="file://$PROJECT_DIR$/week6/src/TrinomialBrute.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" column="78" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week6/src/RevesPuzzle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week6/src/TrinomialDP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week5/src/ActivationFunction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week5/src/Divisors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+            <state relative-caret-position="300">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -121,16 +83,17 @@
         <option value="$PROJECT_DIR$/week5/src/Divisors.java" />
         <option value="$PROJECT_DIR$/week5/src/ActivationFunction.java" />
         <option value="$PROJECT_DIR$/week5/src/AudioCollage.java" />
-        <option value="$PROJECT_DIR$/week6/src/TrinomialDP.java" />
-        <option value="$PROJECT_DIR$/week6/src/TrinomialBrute.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/week6/src/RevesPuzzle.java" />
+        <option value="$PROJECT_DIR$/week6/src/TrinomialBrute.java" />
+        <option value="$PROJECT_DIR$/week6/src/TrinomialDP.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="553" />
-    <option name="y" value="108" />
-    <option name="width" value="1519" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="810" />
+    <option name="y" value="56" />
+    <option name="width" value="1192" />
     <option name="height" value="953" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -139,6 +102,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,12 +130,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587831929443" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588288562222" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -192,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RevesPuzzle">
+  <component name="RunManager" selected="Application.TrinomialBrute">
     <configuration name="ActivationFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ActivationFunction" />
       <module name="week5" />
@@ -220,7 +183,7 @@
     <configuration name="TrinomialBrute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TrinomialBrute" />
       <module name="week6" />
-      <option name="PROGRAM_PARAMETERS" value="24 12" />
+      <option name="PROGRAM_PARAMETERS" value="3 2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -242,8 +205,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RevesPuzzle" />
         <item itemvalue="Application.TrinomialBrute" />
+        <item itemvalue="Application.RevesPuzzle" />
         <item itemvalue="Application.TrinomialDP" />
         <item itemvalue="Application.ActivationFunction" />
         <item itemvalue="Application.Divisors" />
@@ -264,10 +227,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="553" y="108" width="1519" height="953" extended-state="1" />
-    <editor active="true" />
+    <frame x="810" y="56" width="1192" height="953" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25321597" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33391306" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -277,14 +239,14 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3205575" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3205575" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39953542" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329849" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.329849" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.329849" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
@@ -495,17 +457,17 @@
     <entry file="file://$PROJECT_DIR$/week3/week3.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/week5/src/Divisors.java">
+    <entry file="file://$PROJECT_DIR$/week5/src/AudioCollage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        <state relative-caret-position="810">
+          <caret line="54" column="58" selection-start-line="54" selection-start-column="58" selection-end-line="54" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week5/src/AudioCollage.java">
+    <entry file="file://$PROJECT_DIR$/week5/src/Divisors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="54" column="58" selection-start-line="54" selection-start-column="58" selection-end-line="54" selection-end-column="58" />
+        <state relative-caret-position="690">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -516,24 +478,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week6/src/TrinomialDP.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week6/src/RevesPuzzle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week6/src/TrinomialBrute.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" column="78" selection-start-line="5" selection-start-column="78" selection-end-line="5" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week6/src/RevesPuzzle.java">
+    <entry file="file://$PROJECT_DIR$/week6/src/TrinomialDP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>

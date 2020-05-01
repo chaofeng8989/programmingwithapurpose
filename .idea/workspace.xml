@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a489b68-b92e-4632-8835-38fd1478fb3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programmingWithAPurpose.iml" beforeDir="false" afterPath="$PROJECT_DIR$/programmingWithAPurpose.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/resource/fair-coin.txt" beforeDir="false" afterPath="$PROJECT_DIR$/week4/resource/fair-coin.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/week4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week4/week4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6/src/RevesPuzzle.java" beforeDir="false" afterPath="$PROJECT_DIR$/week6/src/RevesPuzzle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +21,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="553" />
-    <option name="y" value="108" />
-    <option name="width" value="1519" />
-    <option name="height" value="953" />
-  </component>
+  <component name="ProjectId" id="1bHDbhg4HQ5NX8MAiI7UMUAiYqq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587831929443" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />

@@ -1,9 +1,13 @@
 public class RevesPuzzle {
-    public static String hanoi(int n, boolean left) {
-        if (n == 0) return " ";
+    public static String hanoi(int n, int k, boolean left, String[] slots, int[] now) {
+        if (n == k) return " ";
         String move;
-        if (left) move = n + "L";
-        else move = n + "R";
+        if (left) {
+            move = n + "L";
+            move = "Move disc "+ n +" from A to D";
+        } else {
+            move = n + "R";
+        }
         return hanoi(n-1, !left) + move + hanoi(n-1, !left);
     }
 

@@ -1,46 +1,19 @@
 public class RevesPuzzle {
-    private static void hanoi(int n, int k, String[] slots) {
-        int[] now = new int[n-k+1];
-        for (int i = 0; i < n-k+1; i++) {
-            now[i] = 1;
-        }
-
-        System.out.println(hanoi(n, k, false, slots, now) );
+    private static String hanoi(int n, int k, char source, char destination, char tmp) {
+        if (n == k) return "";
+        String move = "Move disc " + n + " from " + source + " to " + destination + "\n";
+        return hanoi(n-1, k, source, tmp, destination) + move + hanoi(n-1, k, tmp, destination, source);
     }
-    private static String hanoi(int n, int k, boolean left, String[] slots, int[] now) {
-
-        if (n == k) return " ";
-        String move;
-        int current = 0, next = 0;
-        if (left) {
-            current = now[n-k];
-            next = (now[n-k]-1 + slots.length) % slots.length;
-            now[n-k] = next;
-        }
-        else {
-            current = now[n-k];
-            next = (now[n-k] + 1)  % slots.length;
-            now[n-k] = next;
-        }
-        move = "Move disc " + n + " from " + slots[current] + " to " + slots[next] + "\n";
-
-        return hanoi(n-1, k, !left, slots, now) + move + hanoi(n-1, k, !left, slots, now);
-    }
-    private static void reves(int n, int m, String[] slots) {
+    private static String reves(int n, char source, char destination, char tmp1, char tmp2) {
+        // slots => {source, tmp, tmp, destination};
+        if (n == 0) return "";
+        int k = n + 1 - (int) Math.round(Math.sqrt(n+n+1));
+        return reves(k, source, tmp1, destination, tmp2) + hanoi(n, k, source, destination, tmp2) + reves(k, tmp1, destination, source, tmp2);
 
     }
 
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);
-        int k = (int) Math.round(n+1 - Math.sqrt(n+n+1));
-        System.out.println("n = " + n + ", k = " + k);
-        String[] slots = {"C", "A", "B"};
-        hanoi(k, 0, slots);
-        slots = new String[]{"C", "A", "D"};
-        hanoi(n, k, slots);
-        slots = new String[]{"C", "B", "D"};
-        hanoi(k, 0, slots);
-
-
+        System.out.println(reves(n, 'A', 'D', 'B', 'C'));
     }
 }

@@ -12,32 +12,34 @@ public class Inversions {
     }
 
     // Return a permutation of length n with exactly k inversions.
+    // 20
+    // 9  ---9
+    // 9 8 --- 17
+    // 9 8
     public static int[] generate(int n, long k) {
         int[] re = new int[n];
-        for (int i = 0; i < n; i++) {
-            re[i] = i;
-        }
-        int left = 0;
-        while (k != 0) {
-            int right = n - 1;
-            if (k - (right - left) >= 0) {
-                exch(re, left, right);
-                k -= right - left;
-                left++;
+        int startIndex = 0, endIndex = n-1, start = 0, end = n-1;
+        while (startIndex < endIndex) {
+            if (k == 0) {
+                while (startIndex <= endIndex) {
+                    re[startIndex++] = start++;
+                }
+            } else if (k >= end) {
+                re[startIndex] = end;
+                k-= end;
+                startIndex++;
+                end--;
             } else {
-                exch(re, (int)(right - k), right);
-                break;
+                re[endIndex] = end;
+                endIndex--;
+                end--;
             }
+
         }
+
         return re;
     }
-    private static void exch(int[] array, int start, int end) {
-        int tmp = array[end];
-        for (int i = end; i > start; i--) {
-            array[i] = array[i-1];
-        }
-        array[start] = tmp;
-    }
+
     // Takes an integer n and a long k as command-line arguments,
     // and prints a permutation of length n with exactly k inversions.
     public static void main(String[] args) {
